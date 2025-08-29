@@ -1,8 +1,13 @@
 # Neighborhood Map Project
 
-This project is the **final project** for the **JavaScript Design Patterns** course, completed as part of the **B0B36MOOC** subject at ČVUT FEL.
+This project is the **final project** for the **JavaScript Design Patterns** course, completed as part of the subject at ČVUT FEL.
 
 ## Project Overview
+
+As part of my learning journey, I completed three Udacity courses focused on JavaScript:  
+- Intro to JavaScript  
+- JavaScript Design Patterns  
+- Object-Oriented JavaScript  
 
 The goal of this project is to develop a **single-page web application** featuring:
 - A full-screen interactive **map**,
